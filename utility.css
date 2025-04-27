@@ -1,0 +1,26 @@
+.flex{
+    display: flex;
+}
+.flex-col{
+    flex-direction: column;
+}
+.justify-between{
+    justify-content: space-between;
+}
+.mb-1{
+    margin-bottom: 0.25rem;
+}
+.bg-gray-200{
+    --tw-bg-opacity: 1;
+    background-color: rgb(229 231 235 / var(--tw-bg-opacity, 1));
+}
+.rounded-full{
+    border-radius: 9999px;
+}
+.h-2{
+    height: 0.5rem;
+}
+.bg-primary{
+    --tw-bg-opacity: 1;
+    background-color: rgb(59 130 246 / var(--tw-bg-opacity, 1));
+}
